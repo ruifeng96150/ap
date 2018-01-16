@@ -11,7 +11,7 @@
 					<key>kind</key>
 					<string>software-package</string>
 					<key>url</key>
-					<string>http://wap.accu-group.com/app_api_test/temp/Accu.ipa</string>
+					<string>http://wap.accu-group.com/app_api_test/ios/Accu.ipa</string>
 				</dict>
 				<dict>
 					<key>kind</key>
