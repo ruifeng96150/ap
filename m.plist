@@ -17,13 +17,13 @@
 					<key>kind</key>
 					<string>display-image</string>
 					<key>url</key>
-					<string>https://wx.accu-group.com/ios/ico57.jpg</string>
+					<string>http://wap.accu-group.com/app_api_test/ios/ico57.jpg</string>
 				</dict>
 				<dict>
 					<key>kind</key>
 					<string>full-size-image</string>
 					<key>url</key>
-					<string>https://wx.accu-group.com/ios/ico512.jpg</string>
+					<string>http://wap.accu-group.com/app_api_test/ios/ico512.jpg</string>
 				</dict>
 			</array>
 			<key>metadata</key>
