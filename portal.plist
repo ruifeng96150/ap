@@ -11,19 +11,19 @@
 					<key>kind</key>
 					<string>software-package</string>
 					<key>url</key>
-					<string>http://app.accu-group.com/portal_app/ios/portal.ipa</string>
+					<string>http://wx.accu-group.com/ios/portal/portal.ipa</string>
 				</dict>
 				<dict>
 					<key>kind</key>
 					<string>display-image</string>
 					<key>url</key>
-					<string>http://app.accu-group.com/portal_app/ios/ico57.jpg</string>
+					<string>http://wx.accu-group.com/ios/portal//ico57.jpg</string>
 				</dict>
 				<dict>
 					<key>kind</key>
 					<string>full-size-image</string>
 					<key>url</key>
-					<string>http://app.accu-group.com/portal_app/ios/ico512.jpg</string>
+					<string>http://wx.accu-group.com/ios/portal/ico512.jpg</string>
 				</dict>
 			</array>
 			<key>metadata</key>
